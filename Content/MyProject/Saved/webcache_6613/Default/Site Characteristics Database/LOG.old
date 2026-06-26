@@ -1,5 +1,6 @@
-2026/06/12-09:08:51.358 3bfc Log #3: 2 ops saved to Table #4 OK
-2026/06/12-09:08:51.363 3bfc Archiving C:\Users\CGuser\Desktop\260612\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/06/12-09:08:51.364 3bfc Table #4: 2 entries OK
-2026/06/12-09:08:51.368 3bfc Archiving C:\Users\CGuser\Desktop\260612\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/06/12-09:08:51.387 3bfc **** Repaired leveldb C:\Users\CGuser\Desktop\260612\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
+2026/06/26-09:03:46.692 527c Log #6: 1 ops saved to Table #7 OK
+2026/06/26-09:03:46.701 527c Archiving C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
+2026/06/26-09:03:46.710 527c Table #4: 2 entries OK
+2026/06/26-09:03:46.710 527c Table #7: 1 entries OK
+2026/06/26-09:03:46.738 527c Archiving C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/06/26-09:03:46.765 527c **** Repaired leveldb C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 341 bytes. Some data may have been lost. ****
