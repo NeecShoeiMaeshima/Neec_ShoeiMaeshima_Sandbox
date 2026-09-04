@@ -1,3 +1,7 @@
-2026/07/24-11:10:32.916 589c Reusing MANIFEST C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/07/24-11:10:32.920 589c Recovering log #19
-2026/07/24-11:10:32.922 589c Reusing old log C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/000019.log 
+2026/09/04-08:48:44.303 5a24 Log #19: 3 ops saved to Table #20 OK
+2026/09/04-08:48:44.313 5a24 Archiving C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/000019.log: OK
+2026/09/04-08:48:44.314 5a24 Table #16: 2 entries OK
+2026/09/04-08:48:44.315 5a24 Table #17: 2 entries OK
+2026/09/04-08:48:44.315 5a24 Table #20: 3 entries OK
+2026/09/04-08:48:44.346 5a24 Archiving C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/09/04-08:48:44.377 5a24 **** Repaired leveldb C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 572 bytes. Some data may have been lost. ****
