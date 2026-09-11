@@ -1,1 +1,8 @@
-2026/09/04-08:48:44.398 5a24 Reusing MANIFEST C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/09/11-09:25:42.715 1c1c Log #22: 2 ops saved to Table #23 OK
+2026/09/11-09:25:42.726 1c1c Archiving C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/000022.log: OK
+2026/09/11-09:25:42.733 1c1c Table #16: 2 entries OK
+2026/09/11-09:25:42.739 1c1c Table #17: 2 entries OK
+2026/09/11-09:25:42.746 1c1c Table #20: 3 entries OK
+2026/09/11-09:25:42.746 1c1c Table #23: 2 entries OK
+2026/09/11-09:25:42.781 1c1c Archiving C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/09/11-09:25:42.806 1c1c **** Repaired leveldb C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\Site Characteristics Database; recovered 4 files; 762 bytes. Some data may have been lost. ****
