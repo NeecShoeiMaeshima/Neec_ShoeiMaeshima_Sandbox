@@ -1,8 +1,6 @@
-2026/11/06-09:50:12.387 5190 Log #18: 5 ops saved to Table #19 OK
-2026/11/06-09:50:12.390 5190 Archiving C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/000018.log: OK
-2026/11/06-09:50:12.400 5190 Table #4: 8 entries OK
-2026/11/06-09:50:12.412 5190 Table #10: 5 entries OK
-2026/11/06-09:50:12.421 5190 Table #16: 5 entries OK
-2026/11/06-09:50:12.421 5190 Table #19: 5 entries OK
-2026/11/06-09:50:12.444 5190 Archiving C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: OK
-2026/11/06-09:50:12.464 5190 **** Repaired leveldb C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths; recovered 4 files; 949 bytes. Some data may have been lost. ****
+2026/11/20-09:10:54.854 582c Log #21: 5 ops saved to Table #23 OK
+2026/11/20-09:10:54.856 582c Archiving C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/000021.log: OK
+2026/11/20-09:10:54.864 582c Table #22: 11 entries OK
+2026/11/20-09:10:54.864 582c Table #23: 5 entries OK
+2026/11/20-09:10:54.883 582c Archiving C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: OK
+2026/11/20-09:10:54.899 582c **** Repaired leveldb C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths; recovered 2 files; 601 bytes. Some data may have been lost. ****

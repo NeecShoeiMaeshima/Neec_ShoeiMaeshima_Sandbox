@@ -1,0 +1,71 @@
+[21368:21372:1106/095004.209:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[21368:20876:1106/095004.284:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[21368:21372:1106/095004.312:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[21368:10292:1106/095007.951:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21368:10292:1106/095007.974:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21368:10292:1106/095007.988:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21368:10292:1106/095007.997:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21368:20880:1106/095008.505:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21368:20880:1106/095008.515:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[20492:5600:1106/095009.883:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-44B6D0D8CAE7C21C304732CCB1A3CB69 will be ignored
+[20840:7440:1106/095010.356:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20840:13620:1106/095010.405:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20840:13620:1106/095010.405:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20840:13620:1106/095010.405:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20636:20832:1106/095010.442:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[20636:20832:1106/095010.442:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[20636:20832:1106/095010.442:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[20636:20832:1106/095010.453:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[20636:20832:1106/095010.453:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[20636:20832:1106/095010.453:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[20636:20832:1106/095010.453:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[20636:20832:1106/095010.453:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[20636:20832:1106/095010.453:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[20636:20832:1106/095010.453:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[20636:20832:1106/095010.453:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[20636:20832:1106/095010.453:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[20840:13620:1106/095010.454:WARNING:stun_port.cc(442)] Port[168dc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[20840:13620:1106/095010.456:WARNING:stun_port.cc(442)] Port[168f400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[20840:13620:1106/095010.456:WARNING:stun_port.cc(442)] Port[1b10000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[20840:13620:1106/095010.456:WARNING:stun_port.cc(442)] Port[168dc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[20840:13620:1106/095010.456:WARNING:stun_port.cc(442)] Port[168f400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[20840:13620:1106/095010.456:WARNING:stun_port.cc(442)] Port[1b10000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[20840:13620:1106/095010.456:WARNING:stun_port.cc(442)] Port[168dc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[20840:13620:1106/095010.456:WARNING:stun_port.cc(442)] Port[168f400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[20840:13620:1106/095010.456:WARNING:stun_port.cc(442)] Port[1b10000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21368:20924:1106/095010.579:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[21368:21372:1106/095010.614:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[21368:21372:1106/095010.615:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[21368:21372:1106/095010.615:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[21368:21372:1106/095010.615:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[21368:20924:1106/095010.742:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[18532:13288:1106/095010.959:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18532:3676:1106/095011.023:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18532:3676:1106/095011.023:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[18532:3676:1106/095011.023:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20636:20832:1106/095011.070:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[20636:20832:1106/095011.070:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[20636:20832:1106/095011.070:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[20636:20832:1106/095011.070:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[20636:20832:1106/095011.070:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[20636:20832:1106/095011.071:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[20636:20832:1106/095011.071:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[20636:20832:1106/095011.071:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[20636:20832:1106/095011.071:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[20636:20832:1106/095011.071:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[20636:20832:1106/095011.071:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[20636:20832:1106/095011.071:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[18532:3676:1106/095011.072:WARNING:stun_port.cc(442)] Port[1c1d800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18532:3676:1106/095011.072:WARNING:stun_port.cc(442)] Port[1c1e000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18532:3676:1106/095011.072:WARNING:stun_port.cc(442)] Port[1c1e800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18532:3676:1106/095011.072:WARNING:stun_port.cc(442)] Port[1c1d800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18532:3676:1106/095011.072:WARNING:stun_port.cc(442)] Port[1c1e000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18532:3676:1106/095011.072:WARNING:stun_port.cc(442)] Port[1c1e800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18532:3676:1106/095011.072:WARNING:stun_port.cc(442)] Port[1c1d800:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18532:3676:1106/095011.072:WARNING:stun_port.cc(442)] Port[1c1e000:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[18532:3676:1106/095011.072:WARNING:stun_port.cc(442)] Port[1c1e800:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[21368:20880:1106/095012.351:ERROR:sandbox_directory_database.cc(915)] SandboxDirectoryDatabase failed at: Init@storage\browser\file_system\sandbox_directory_database.cc:715 with error: IO error: C:\Users\CGuser\Desktop\Neec_ShoeiMaeshima_Sandbox\Content\MyProject\Saved\webcache_6613\Default\WebStorage\1\FileSystem\t\Paths/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[21368:20880:1106/095012.351:WARNING:sandbox_directory_database.cc(727)] Corrupted SandboxDirectoryDatabase detected. Attempting to repair.
+[18532:13288:1106/095013.558:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[20840:21008:1106/095220.735:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 6-8AC54BB85B2922E15D341600C1634E3B will be ignored
+[21368:21372:1106/115005.427:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
